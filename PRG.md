@@ -13,8 +13,8 @@ This file is used to connect this repository to the **PRG** project categorizati
 ## Project Information
 
 **Repository Tier:** Bronze <br>
-**Technology:** Java <br>
-**Category:** Console Application <br>
+**Technology:** SQL, MSSQL, Excel <br>
+**Category:** Database, Spreadsheets <br>
 **Order:** 0 <br>
 
 ## Parameters

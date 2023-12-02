@@ -7,7 +7,7 @@
 </div>
 <br>
 <p align="center">
-    <a href="https://www.php.net/"><img src="https://img.shields.io/badge/Microsoft_SQL_Server-2022-CC2927?style=for-the-badge&logo=microsoftsqlserver" alt="SQL Server Badge" /></a>
+    <a href="https://www.microsoft.com/en-us/sql-server/sql-server-2022"><img src="https://img.shields.io/badge/Microsoft_SQL_Server-2022-CC2927?style=for-the-badge&logo=microsoftsqlserver" alt="SQL Server Badge" /></a>
     <a href="https://www.microsoft.com/en-us/microsoft-365/excel"><img src="https://img.shields.io/badge/Excel-2022-217346?style=for-the-badge&logo=microsoftexcel" alt="Excel Badge" /></a>
     <br>
     <a href="https://github.com/scottgriv"><img src="https://img.shields.io/badge/github-follow_me-181717?style=for-the-badge&logo=github&color=181717" alt="GitHub Badge" /></a>
@@ -45,7 +45,7 @@ Run the query inside of the `excel_export.sql`, changing the following configura
 
 ## Resources
 
-- [Microsoft SQL Server - 2022 Home](https://www.microsoft.com/en-us/sql-server/sql-server-2019)
+- [Microsoft SQL Server - 2022 Home](https://www.microsoft.com/en-us/sql-server/sql-server-2022)
 - [Microsoft SQL Server - 2022 Documentation](https://learn.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver16)
 - [Microsoft SQL Server - Downloads](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
 - [Microsoft Excel](https://www.microsoft.com/en-us/microsoft-365/excel)
