@@ -14,8 +14,8 @@ This file is used to connect this repository to the **PRG** project categorizati
 
 **Repository Tier:** Bronze <br>
 **Technology:** SQL, MSSQL, Excel <br>
-**Category:** Database, Spreadsheets <br>
-**Order:** 0 <br>
+**Category:** DBMS, Database, Spreadsheets <br>
+**Order:** 34 <br>
 
 ## Parameters
 
