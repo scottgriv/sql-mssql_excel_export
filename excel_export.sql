@@ -1,5 +1,5 @@
 -- Author: Scott Grivner
--- Website: scottgrivner.dev
+-- Website: linktr.ee/scottgriv
 -- Abstract: Export Microsoft SQL Server to Excel
 
 -- xp_cmdshell is a system stored procedure in SQL Server. It allows executing Windows shell commands from the SQL Server environment. While commands are passed as an input string, the shell's output is returned as rows of text.
